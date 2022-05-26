@@ -1,4 +1,4 @@
-package com.iiht.StockMarket.utilTestClass;
+package com.iiht.training.creditcard.testutils;
 
 public class TestResults {
 
