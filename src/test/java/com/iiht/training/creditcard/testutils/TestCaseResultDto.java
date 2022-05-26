@@ -1,5 +1,4 @@
-package com.iiht.StockMarket.utilTestClass;
-
+package com.iiht.training.creditcard.testutils;
 public class TestCaseResultDto {
 
 	private String methodName;
